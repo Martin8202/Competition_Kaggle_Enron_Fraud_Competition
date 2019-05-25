@@ -2,8 +2,10 @@
 
 利用安隆松高層經理人內部往來mail、薪資、股票等財物特徵，使用Gradient Boosting Machine預測安隆詐騙案之犯罪者
 
-<H2>Competition Description<H2>
-  <H4>[Competition Page](https://www.kaggle.com/c/ml100marathon)</H4>
+<H2>Competition Description</H2>
+                               
+[Competition Page](https://www.kaggle.com/c/ml100marathon)
+
 <H2>File Description<H2>
 
 <H4>Data：存放樣本資料
