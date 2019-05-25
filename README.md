@@ -18,6 +18,7 @@
   (6) Making predictions
 
 <H2>Result</H2>
+
   1.  樣本內與樣本為準確率僅差2%。<br>
   2.  AUC：81%。
  
