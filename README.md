@@ -8,9 +8,14 @@
 
 <H2>File Description<H2>
 
-<H3>
-#Data：存放樣本資料
-#code.py：(1) Preprocessing (2) Feature engineering (3) Preprocessing (4) Feature selection (5) Building model (6) Making predictions
-
+<H3>Data：存放樣本資料
+#code.py：
+  (1) Preprocessing 
+  (2) Feature engineering 
+  (3) Preprocessing 
+  (4) Feature selection 
+  (5) Building model 
+  (6) Making predictions
+</H3>
 
 
