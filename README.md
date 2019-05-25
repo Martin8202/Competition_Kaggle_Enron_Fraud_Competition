@@ -3,21 +3,14 @@
 利用安隆松高層經理人內部往來mail、薪資、股票等財物特徵，使用Gradient Boosting Machine預測安隆詐騙案之犯罪者
 
 <H2>Competition Description<H2>
-[Google](http://www.google.com/)
 
-我之
-存放主要程式碼。
+<H3>[Competition Page](https://www.kaggle.com/c/ml100marathon)</H3>
 
-data：
+<H2>File Description<H2>
 
-存放Demo使用之股價資料(0050成分股，日頻率)。
+<H3>
+#Data：存放樣本資料
+#code.py：(1) Preprocessing (2) Feature engineering (3) Preprocessing (4) Feature selection (5) Building model (6) Making predictions
 
-help：
 
-存放程式碼較複雜處的解釋。
 
-example：
-
-存放模組使用例子。
-
-https://www.kaggle.com/c/ml100marathon
