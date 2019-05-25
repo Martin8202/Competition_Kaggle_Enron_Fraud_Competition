@@ -3,8 +3,9 @@
 利用安隆松高層經理人內部往來mail、薪資、股票等財物特徵，使用Gradient Boosting Machine預測安隆詐騙案之犯罪者
 
 <H2>Competition Description<H2>
-[Google](http://www.google.com/ "Google")
+[Google](http://www.google.com/)
 
+我之
 存放主要程式碼。
 
 data：
